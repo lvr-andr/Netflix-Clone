@@ -11,7 +11,7 @@
     rgba(0, 0, 0, 0.7) 10%,
     transparent
   ); /* Corrected background property */
-  z-index: 1;
+  z-index: 3;
 }
 
 .navbar-left {
